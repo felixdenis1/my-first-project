@@ -1,4 +1,6 @@
 //npx felix-crud my-app
+//npx felix-backend my-api
+
 
 //git.Felix300512#;
 //CREATE DATABASE Camellia;
