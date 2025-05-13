@@ -1,3 +1,5 @@
+//npx felix-crud my-app
+
 //git.Felix300512#;
 //CREATE DATABASE Camellia;
 
